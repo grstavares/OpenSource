@@ -1,0 +1,342 @@
+[submodule "Controls/Swift/JTAppleCalendar"]
+	path = Controls/Swift/JTAppleCalendar
+	url = https://github.com/patchthecode/JTAppleCalendar.git
+[submodule "Controls/Swift/Charts"]
+	path = Controls/Swift/Charts
+	url = https://github.com/danielgindi/Charts
+[submodule "Controls/Swift/JSONSchema"]
+	path = Controls/Swift/JSONSchema
+	url = https://github.com/kylef/JSONSchema.swift
+[submodule "Controls/Swift/Skeleton"]
+	path = Controls/Swift/Skeleton
+	url = https://github.com/gonzalonunez/Skeleton.git
+[submodule "Tools/MockServer"]
+	path = Tools/MockServer
+	url = https://github.com/MarcoSantarossa/MockServer
+[submodule "Controls/Swift/AnyFormatKit"]
+	path = Controls/Swift/AnyFormatKit
+	url = https://github.com/luximetr/AnyFormatKit
+[submodule "Controls/Swift/PhoneNumberKit"]
+	path = Controls/Swift/PhoneNumberKit
+	url = https://github.com/marmelroy/PhoneNumberKit
+[submodule "Controls/Swift/KeyChainAccess"]
+	path = Controls/Swift/KeyChainAccess
+	url = https://github.com/kishikawakatsumi/KeychainAccess
+[submodule "Controls/Swift/Timeline"]
+	path = Controls/Swift/Timeline
+	url = https://github.com/edekhayser/Timeline
+[submodule "Controls/Swift/TimelineTableViewCell"]
+	path = Controls/Swift/TimelineTableViewCell
+	url = https://github.com/kf99916/TimelineTableViewCell
+[submodule "Controls/Swift/ActivityIndicator"]
+	path = Controls/Swift/ActivityIndicator
+	url = https://github.com/ninjaprox/NVActivityIndicatorView
+[submodule "Controls/Swift/CardView"]
+	path = Controls/Swift/CardView
+	url = https://github.com/aclissold/CardView
+[submodule "Controls/Swift/CollectionViewCellTransition"]
+	path = Controls/Swift/CollectionViewCellTransition
+	url = https://github.com/freedom27/PopInAndOutCollectionViewTransition
+[submodule "Controls/Swift/ExpandCellTransition"]
+	path = Controls/Swift/ExpandCellTransition
+	url = https://github.com/hmuronaka/ExpandingCellTransition
+[submodule "Controls/Swift/SwiftExpandingCells"]
+	path = Controls/Swift/SwiftExpandingCells
+	url = https://github.com/justinmfischer/SwiftyExpandingCells
+[submodule "Controls/Swift/NotificationBanner"]
+	path = Controls/Swift/NotificationBanner
+	url = https://github.com/Daltron/NotificationBanner
+[submodule "Controls/Swift/HeroAnimator"]
+	path = Controls/Swift/HeroAnimator
+	url = https://github.com/lkzhao/Hero
+[submodule "Controls/Swift/UPCarouselFlowLayout"]
+	path = Controls/Swift/UPCarouselFlowLayout
+	url = https://github.com/ink-spot/UPCarouselFlowLayout
+[submodule "Controls/Swift/PMAlertController"]
+	path = Controls/Swift/PMAlertController
+	url = https://github.com/Codeido/PMAlertController
+[submodule "Controls/Swift/ArekPermissions"]
+	path = Controls/Swift/ArekPermissions
+	url = https://github.com/ennioma/Arek
+[submodule "Controls/Swift/Heimdallr"]
+	path = Controls/Swift/Heimdallr
+	url = https://github.com/trivago/Heimdallr.swift
+[submodule "LearningSpace/Swift/CATransform3D"]
+	path = LearningSpace/Swift/CATransform3D
+	url = https://github.com/igroomgrim/CATransform3D-in-Swift
+[submodule "Controls/Swift/AppFolder"]
+	path = Controls/Swift/AppFolder
+	url = http://github.com/dreymonde/AppFolder
+[submodule "Controls/Swift/CryptoSwift"]
+	path = Controls/Swift/CryptoSwift
+	url = https://github.com/krzyzanowskim/CryptoSwift
+[submodule "Controls/Swift/GzipSwift"]
+	path = Controls/Swift/GzipSwift
+	url = https://github.com/1024jp/GzipSwift
+[submodule "Controls/Swift/Just"]
+	path = Controls/Swift/Just
+	url = https://github.com/JustHTTP/Just
+[submodule "Controls/Swift/Placeholders"]
+	path = Controls/Swift/Placeholders
+	url = https://github.com/dreymonde/Placeholders
+[submodule "Apps/Swift/AWSCognitoSampleSwift"]
+	path = Apps/Swift/AWSCognitoSampleSwift
+	url = https://github.com/foxtrackjp/AWSCognitoSample.git
+[submodule "Apps/Swift/AwsomePageControl"]
+	path = Apps/Swift/AwsomePageControl
+	url = https://github.com/omrih1010/AwsomePageControl.git
+[submodule "Apps/Swift/CognitoUserPoolSample"]
+	path = Apps/Swift/CognitoUserPoolSample
+	url = https://github.com/takehilo/CognitoUserPoolSample.git
+[submodule "Apps/Swift/NSOutlineView"]
+	path = Apps/Swift/NSOutlineView
+	url = https://github.com/danielpi/NSOutlineViewInSwift.git
+[submodule "Apps/Swift/PhotoUploader"]
+	path = Apps/Swift/PhotoUploader
+	url = https://github.com/earthican/PhotoUploader.git
+[submodule "Apps/Swift/SignIn-awsmhh"]
+	path = Apps/Swift/SignIn-awsmhh
+	url = https://github.com/BruceBuckland/SignIn-awsmhh.git
+[submodule "Apps/Swift/Sparkle"]
+	path = Apps/Swift/Sparkle
+	url = https://github.com/sparkle-project/Sparkle
+[submodule "Apps/Swift/FoodTruck-Inc"]
+	path = Apps/Swift/FoodTruck-Inc
+	url = https://github.com/chickenPopcorn/food-truck-inc.git
+[submodule "Apps/Swift/StackTray"]
+	path = Apps/Swift/StackTray
+	url = https://github.com/dutchcoders/stacktray.git
+[submodule "Controls/Swift/DeviceKit"]
+	path = Controls/Swift/DeviceKit
+	url = https://github.com/dennisweissmann/DeviceKit
+[submodule "Apps/Swift/Xi-Mac"]
+	path = Apps/Swift/Xi-Mac
+	url = https://github.com/google/xi-mac.git
+[submodule "Controls/Swift/BitcoinKit"]
+	path = Controls/Swift/BitcoinKit
+	url = https://github.com/kishikawakatsumi/BitcoinKit.git
+[submodule "Apps/Swift/Lumina"]
+	path = Apps/Swift/Lumina
+	url = https://github.com/dokun1/Lumina.git
+[submodule "Controls/Swift/Tags"]
+	path = Controls/Swift/Tags
+	url = https://github.com/pikachu987/Tags.git
+[submodule "Controls/Swift/IGListKit"]
+	path = Controls/Swift/IGListKit
+	url = https://github.com/Instagram/IGListKit.git
+[submodule "Controls/Swift/SlantedLayout"]
+	path = Controls/Swift/SlantedLayout
+	url = https://github.com/yacir/CollectionViewSlantedLayout.git
+[submodule "Controls/Swift/AudioKit"]
+	path = Controls/Swift/AudioKit
+	url = https://github.com/AudioKit/AudioKit.git
+[submodule "Controls/Swift/YImagePicker"]
+	path = Controls/Swift/YImagePicker
+	url = https://github.com/Yummypets/YPImagePicker.git
+[submodule "Controls/Swift/FoldingCell"]
+	path = Controls/Swift/FoldingCell
+	url = https://github.com/Ramotion/folding-cell.git
+[submodule "Apps/Swift/Colleagues"]
+	path = Apps/Swift/Colleagues
+	url = https://github.com/artemnovichkov/colleagues.git
+[submodule "Controls/Swift/PublicExtensions"]
+	path = Controls/Swift/PublicExtensions
+	url = https://github.com/artemnovichkov/Public-Extension.git
+[submodule "Apps/Swift/Argent-iOS"]
+	path = Apps/Swift/Argent-iOS
+	url = https://github.com/argent-os/argent-ios.git
+[submodule "Apps/Swift/Coins"]
+	path = Apps/Swift/Coins
+	url = https://github.com/nothingmagical/coins
+[submodule "Apps/Swift/HealthKit"]
+	path = Apps/Swift/HealthKit
+	url = https://github.com/Darktt/HealthKit-Swift.git
+[submodule "Apps/Swift/Pictograph-Stenography"]
+	path = Apps/Swift/Pictograph-Stenography
+	url = https://github.com/MrAdamBoyd/Pictograph.git
+[submodule "Apps/Swift/CloudKit-Demo"]
+	path = Apps/Swift/CloudKit-Demo
+	url = https://github.com/Yalantis/CloudKit-Demo.Swift.git
+[submodule "Apps/Swift/iOS-9"]
+	path = Apps/Swift/iOS-9
+	url = https://github.com/shu223/iOS-9-Sampler.git
+[submodule "Apps/Swift/CALayerAnimations"]
+	path = Apps/Swift/CALayerAnimations
+	url = https://github.com/scotteg/LayerPlayer.git
+[submodule "Apps/Swift/MVVM-Example"]
+	path = Apps/Swift/MVVM-Example
+	url = https://github.com/vanyaland/MVVM-Example.git
+[submodule "Apps/Swift/FreeOTP"]
+	path = Apps/Swift/FreeOTP
+	url = https://github.com/freeotp/freeotp-ios.git
+[submodule "Apps/Swift/iOS-11"]
+	path = Apps/Swift/iOS-11
+	url = https://github.com/artemnovichkov/iOS-11-by-Examples.git
+[submodule "Controls/Swift/NibDesignable"]
+	path = Controls/Swift/NibDesignable
+	url = https://github.com/mbogh/NibDesignable.git
+[submodule "Controls/Swift/QuickLayout"]
+	path = Controls/Swift/QuickLayout
+	url = https://github.com/huri000/QuickLayout.git
+[submodule "Controls/Swift/GenericJSON"]
+	path = Controls/Swift/GenericJSON
+	url = https://github.com/zoul/generic-json-swift.git
+[submodule "LearningSpace/Swift/MacOSTitleAndToolbar"]
+	path = LearningSpace/Swift/MacOSTitleAndToolbar
+	url = https://github.com/robin/TitlebarAndToolbar.git
+[submodule "LearningSpace/Swift/NavigationTransitions"]
+	path = LearningSpace/Swift/NavigationTransitions
+	url = https://github.com/rihardsba/NavigationTransitions.git
+[submodule "Apps/Swift/IinaVideoPlayer"]
+	path = Apps/Swift/IinaVideoPlayer
+	url = https://github.com/lhc70000/iina.git
+[submodule "Controls/Swift/VLCKitSwift"]
+	path = Controls/Swift/VLCKitSwift
+	url = https://github.com/colemancda/VLCKitSwift.git
+[submodule "Controls/Swift/SipHash"]
+	path = Controls/Swift/SipHash
+	url = https://github.com/attaswift/SipHash.git
+[submodule "Controls/Swift/SwifterSwift"]
+	path = Controls/Swift/SwifterSwift
+	url = https://github.com/SwifterSwift/SwifterSwift.git
+[submodule "Controls/Swift/AnimatedMaskLabel"]
+	path = Controls/Swift/AnimatedMaskLabel
+	url = https://github.com/imjog/AnimatedMaskLabel.git
+[submodule "Controls/Swift/ItemDataSource"]
+	path = Controls/Swift/ItemDataSource
+	url = https://github.com/minikin/ItemsDataSource.git
+[submodule "LearningSpace/Swift/SwiftMacTableView"]
+	path = LearningSpace/Swift/SwiftMacTableView
+	url = https://github.com/uliwitness/SwiftyMacTableView.git
+[submodule "LearningSpace/Swift/CocoaOpenGL"]
+	path = LearningSpace/Swift/CocoaOpenGL
+	url = https://github.com/joshb/CocoaOpenGL-Swift.git
+[submodule "LearningSpace/Swift/InfiniteScrollDial"]
+	path = LearningSpace/Swift/InfiniteScrollDial
+	url = https://github.com/Squarelogic/InfiniteScrollDialExample.git
+[submodule "LearningSpace/Swift/DetachablePopover"]
+	path = LearningSpace/Swift/DetachablePopover
+	url = https://github.com/lukaskubanek/DetachablePopoverExample.git
+[submodule "LearningSpace/Swift/SwiftNeo4J-Theo"]
+	path = LearningSpace/Swift/SwiftNeo4J-Theo
+	url = https://github.com/niklassaers/theo-example.git
+[submodule "LearningSpace/Swift/SwiftDropboxAPIExample"]
+	path = LearningSpace/Swift/SwiftDropboxAPIExample
+	url = https://github.com/Krivoblotsky/SwiftyDropboxExample.git
+[submodule "Controls/Swift/SwiftDropBox"]
+	path = Controls/Swift/SwiftDropBox
+	url = https://github.com/dropbox/SwiftyDropbox.git
+[submodule "LearningSpace/Swift/XPC-Example"]
+	path = LearningSpace/Swift/XPC-Example
+	url = https://github.com/richardnees/Swift-macOS-XPC-Example.git
+[submodule "LearningSpace/Swift/KerberosPWD"]
+	path = LearningSpace/Swift/KerberosPWD
+	url = https://github.com/suolapeikko/kerbpasswd.git
+[submodule "LearningSpace/Swift/BRFullTextSearchLucene"]
+	path = LearningSpace/Swift/BRFullTextSearchLucene
+	url = https://github.com/phildow/brfulltextsearch-macos-swift-example.git
+[submodule "Controls/Swift/NSPageController"]
+	path = Controls/Swift/NSPageController
+	url = https://github.com/zedoude/SwiftFileCard.git
+[submodule "LearningSpace/Swift/DragAndDropMacOS"]
+	path = LearningSpace/Swift/DragAndDropMacOS
+	url = https://github.com/yenrab/SwiftlyDrag.git
+[submodule "LearningSpace/Swift/SpeechSynthesizer"]
+	path = LearningSpace/Swift/SpeechSynthesizer
+	url = https://github.com/karmatr0n/say-swift.git
+[submodule "LearningSpace/Swift/AVAudioPlayer-SpeedPitch"]
+	path = LearningSpace/Swift/AVAudioPlayer-SpeedPitch
+	url = https://github.com/arvedviehweger/AVAudioPlayer-Speed-Pitch.git
+[submodule "LearningSpace/Swift/MacOSCustomMenu"]
+	path = LearningSpace/Swift/MacOSCustomMenu
+	url = https://github.com/RiceLinTW/CustomMenuSwift.git
+[submodule "LearningSpace/Swift/Calendarium"]
+	path = LearningSpace/Swift/Calendarium
+	url = https://github.com/peturingi/Calendarium.git
+[submodule "Controls/Swift/CoreCharts"]
+	path = Controls/Swift/CoreCharts
+	url = https://github.com/cagricolak/CoreCharts.git
+[submodule "Controls/Swift/LoginCritter"]
+	path = Controls/Swift/LoginCritter
+	url = https://github.com/cgoldsby/LoginCritter.git
+[submodule "Controls/Swift/ContextMenu"]
+	path = Controls/Swift/ContextMenu
+	url = https://github.com/GitHawkApp/ContextMenu.git
+[submodule "Controls/Swift/SwiftNio"]
+	path = Controls/Swift/SwiftNio
+	url = https://github.com/apple/swift-nio.git
+[submodule "Controls/Swift/Delegated"]
+	path = Controls/Swift/Delegated
+	url = https://github.com/dreymonde/Delegated.git
+[submodule "Apps/Swift/Textor"]
+	path = Apps/Swift/Textor
+	url = https://github.com/louisdh/textor.git
+[submodule "Controls/Swift/Blueprints"]
+	path = Controls/Swift/Blueprints
+	url = https://github.com/zenangst/Blueprints.git
+[submodule "Controls/Swift/AppThemes"]
+	path = Controls/Swift/AppThemes
+	url = https://github.com/latenightswift/night-mode.git
+[submodule "Apps/Swift/VKSentimentAnalysis"]
+	path = Apps/Swift/VKSentimentAnalysis
+	url = https://github.com/VamshiIITBHU14/VKSentimentAnalysis.git
+[submodule "Controls/Swift/CardPartsRx"]
+	path = Controls/Swift/CardPartsRx
+	url = https://github.com/intuit/CardParts.git
+[submodule "Controls/Swift/SpreadsheetView"]
+	path = Controls/Swift/SpreadsheetView
+	url = https://github.com/kishikawakatsumi/SpreadsheetView.git
+[submodule "Controls/Swift/SwiftEntryKit"]
+	path = Controls/Swift/SwiftEntryKit
+	url = https://github.com/huri000/SwiftEntryKit.git
+[submodule "Controls/Swift/RSFloatInputView"]
+	path = Controls/Swift/RSFloatInputView
+	url = https://github.com/roytornado/RSFloatInputView.git
+[submodule "Controls/Swift/SkyFloatingLabelTextField"]
+	path = Controls/Swift/SkyFloatingLabelTextField
+	url = https://github.com/Skyscanner/SkyFloatingLabelTextField.git
+[submodule "Controls/Swift/UserInterface"]
+	path = Controls/Swift/UserInterface
+	url = https://github.com/zenangst/UserInterface.git
+[submodule "Controls/Swift/Differific"]
+	path = Controls/Swift/Differific
+	url = https://github.com/zenangst/Differific.git
+[submodule "Controls/Swift/Parade"]
+	path = Controls/Swift/Parade
+	url = https://github.com/HelloElephant/Parade.git
+[submodule "Controls/Swift/Typist"]
+	path = Controls/Swift/Typist
+	url = https://github.com/totocaster/Typist.git
+[submodule "LearningSpace/Swift/NSPageController"]
+	path = LearningSpace/Swift/NSPageController
+	url = https://github.com/zedoude/SwiftFileCard.git
+[submodule "Controls/Swift/SerdParser"]
+	path = Controls/Swift/SerdParser
+	url = https://github.com/kasei/serd-parser.git
+[submodule "Controls/Swift/FeedKit"]
+	path = Controls/Swift/FeedKit
+	url = https://github.com/nmdias/FeedKit.git
+[submodule "Controls/Swift/GraphLayout"]
+	path = Controls/Swift/GraphLayout
+	url = https://github.com/bakhtiyork/GraphLayout.git
+[submodule "Controls/Swift/WBCollectionViewLayout"]
+	path = Controls/Swift/WBCollectionViewLayout
+	url = https://github.com/mwaqasbhati/WBCollectionViewLayout.git
+[submodule "Controls/Swift/Files"]
+	path = Controls/Swift/Files
+	url = https://github.com/JohnSundell/Files.git
+[submodule "Controls/Swift/Money"]
+	path = Controls/Swift/Money
+	url = https://github.com/Flight-School/Money.git
+[submodule "Controls/Swift/MessengerKit"]
+	path = Controls/Swift/MessengerKit
+	url = https://github.com/steve228uk/MessengerKit.git
+[submodule "LearningSpace/Swift/AudioRecorder"]
+	path = LearningSpace/Swift/AudioRecorder
+	url = https://github.com/dennisAWS/AudioRecorder.git
+[submodule "Apps/Swift/iOS10"]
+	path = Apps/Swift/iOS10
+	url = https://github.com/shinobicontrols/iOS10-day-by-day.git
+[submodule "LearningSpace/Swift/AdvancedChartingiOS"]
+	path = LearningSpace/Swift/AdvancedChartingiOS
+	url = https://github.com/shinobicontrols/advanced-charting-iOS.git
