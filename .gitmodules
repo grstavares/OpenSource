@@ -388,3 +388,6 @@
 [submodule "Libraries/Java/RestAssured"]
 	path = Libraries/Java/RestAssured
 	url = https://github.com/rest-assured/rest-assured.git
+[submodule "Tools/Python/DidierStevensSuite"]
+	path = Tools/Python/DidierStevensSuite
+	url = https://github.com/DidierStevens/DidierStevensSuite.git
