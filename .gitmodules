@@ -340,3 +340,51 @@
 [submodule "LearningSpace/Swift/AdvancedChartingiOS"]
 	path = LearningSpace/Swift/AdvancedChartingiOS
 	url = https://github.com/shinobicontrols/advanced-charting-iOS.git
+[submodule "LearningSpace/Angular/SocketIo-TypescriptChat"]
+	path = LearningSpace/Angular/SocketIo-TypescriptChat
+	url = https://github.com/luixaviles/socket-io-typescript-chat.git
+[submodule "LearningSpace/Angular/NgAngularMaterialScaffold"]
+	path = LearningSpace/Angular/NgAngularMaterialScaffold
+	url = https://github.com/alexandru360/ng-angular-material-scaffold.git
+[submodule "Functions/Firebase/Samples"]
+	path = Functions/Firebase/Samples
+	url = https://github.com/firebase/functions-samples.git
+[submodule "Apps/Android/UniversalMusicPlayer"]
+	path = Apps/Android/UniversalMusicPlayer
+	url = https://github.com/googlesamples/android-UniversalMusicPlayer.git
+[submodule "Apps/Java/ARSRemedySeiBridge"]
+	path = Apps/Java/ARSRemedySeiBridge
+	url = https://github.com/grstavares/ars-remedy-sei-bridge.git
+[submodule "LearningSpace/Android/DrawableAnimation"]
+	path = LearningSpace/Android/DrawableAnimation
+	url = https://github.com/robkerr/BlogAndroidDrawableAnimation.git
+[submodule "Controls/Android/Utils"]
+	path = Controls/Android/Utils
+	url = https://github.com/Blankj/AndroidUtilCode.git
+[submodule "Controls/Android/FoldingCell"]
+	path = Controls/Android/FoldingCell
+	url = https://github.com/Ramotion/folding-cell-android.git
+[submodule "Controls/Android/MPAndroidChart"]
+	path = Controls/Android/MPAndroidChart
+	url = https://github.com/PhilJay/MPAndroidChart.git
+[submodule "Tools/Java/AWSServerlessJavaArchtype"]
+	path = Tools/Java/AWSServerlessJavaArchtype
+	url = https://github.com/awslabs/aws-serverless-java-archetype.git
+[submodule "Apps/Java/CognitoJava"]
+	path = Apps/Java/CognitoJava
+	url = https://github.com/kdgregory/example-cognito-java.git
+[submodule "Libraries/Java/GSON"]
+	path = Libraries/Java/GSON
+	url = https://github.com/google/gson.git
+[submodule "Libraries/Java/JaxRSAnalyzer"]
+	path = Libraries/Java/JaxRSAnalyzer
+	url = https://github.com/sdaschner/jaxrs-analyzer.git
+[submodule "Libraries/Java/JSONSchemaValidator"]
+	path = Libraries/Java/JSONSchemaValidator
+	url = https://github.com/java-json-tools/json-schema-validator.git
+[submodule "Libraries/Java/OWLAPI"]
+	path = Libraries/Java/OWLAPI
+	url = https://github.com/owlcs/owlapi.git
+[submodule "Libraries/Java/RestAssured"]
+	path = Libraries/Java/RestAssured
+	url = https://github.com/rest-assured/rest-assured.git
