@@ -394,3 +394,6 @@
 [submodule "Apps/Angular/SBAdmin-BS4Angular6"]
 	path = Apps/Angular/SBAdmin-BS4Angular6
 	url = https://github.com/start-angular/SB-Admin-BS4-Angular-6.git
+[submodule "LearningSpace/NgXCognitoLogin"]
+	path = LearningSpace/NgXCognitoLogin
+	url = https://github.com/tensult/ngx-cognito-login.git
