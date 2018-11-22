@@ -397,3 +397,12 @@
 [submodule "LearningSpace/NgXCognitoLogin"]
 	path = LearningSpace/NgXCognitoLogin
 	url = https://github.com/tensult/ngx-cognito-login.git
+[submodule "Apps/SwiftKotlin"]
+	path = Apps/SwiftKotlin
+	url = https://github.com/angelolloqui/SwiftKotlin.git
+[submodule "Tools/Python/rarPasswordCracker"]
+	path = Tools/Python/rarPasswordCracker
+	url = https://github.com/GauthamGoli/rarPasswordCracker.git
+[submodule "Tools/Python/filetype"]
+	path = Tools/Python/filetype
+	url = https://github.com/h2non/filetype.py.git
