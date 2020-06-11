@@ -856,3 +856,39 @@
 [submodule "Libraries/Android/andOTP"]
 	path = Libraries/Android/andOTP
 	url = https://github.com/andOTP/andOTP.git
+[submodule "Tools/NodeJS/Velocity"]
+	path = Tools/NodeJS/Velocity
+	url = git@github.com:fool2fish/velocity.git
+[submodule "Tools/NodeJS/VelocityJS"]
+	path = Tools/NodeJS/VelocityJS
+	url = git@github.com:shepherdwind/velocity.js.git
+[submodule "Tools/NodeJS/jOTP"]
+	path = Tools/NodeJS/jOTP
+	url = git@github.com:olyjosh/jOTP.git
+[submodule "Tools/evernote-dump"]
+	path = Tools/evernote-dump
+	url = git@github.com:exomut/evernote-dump.git
+[submodule "BrowserExtensions/WebScrapBook"]
+	path = BrowserExtensions/WebScrapBook
+	url = git@github.com:danny0838/webscrapbook.git
+[submodule "BrowserExtensions/ResourcesSaverExt"]
+	path = BrowserExtensions/ResourcesSaverExt
+	url = git@github.com:up209d/ResourcesSaverExt.git
+[submodule "BrowserExtensions/SingleFile"]
+	path = BrowserExtensions/SingleFile
+	url = git@github.com:gildas-lormeau/SingleFile.git
+[submodule "BrowserExtensions/DataScrapChromeExtension"]
+	path = BrowserExtensions/DataScrapChromeExtension
+	url = git@github.com:nayonacademy/data-scrap-chromeextension.git
+[submodule "BrowserExtensions/ChromeAppSamples"]
+	path = BrowserExtensions/ChromeAppSamples
+	url = git@github.com:GoogleChrome/chrome-app-samples.git
+[submodule "BrowserExtensions/ChromeExtensionsExamples"]
+	path = BrowserExtensions/ChromeExtensionsExamples
+	url = git@github.com:orbitbot/chrome-extensions-examples.git
+[submodule "AWS/S3AutoTranscriber"]
+	path = AWS/S3AutoTranscriber
+	url = https://github.com/jbesw/sar-s3-auto-transcriber.git
+[submodule "AWS/image-resizer-service"]
+	path = AWS/image-resizer-service
+	url = https://github.com/cagataygurturk/image-resizer-service.git
