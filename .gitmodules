@@ -490,3 +490,54 @@
 [submodule "Apps/Swift/Weather"]
 	path = Apps/Swift/Weather
 	url = git@github.com:bpisano/Weather.git
+[submodule "Combine/CombineExamples"]
+	path = Combine/CombineExamples
+	url = git@github.com:tailec/CombineExamples.git
+[submodule "Combine/CombineUnsplash"]
+	path = Combine/CombineUnsplash
+	url = git@github.com:vinhnx/CombineUnsplash.git
+[submodule "Combine/CombineX"]
+	path = Combine/CombineX
+	url = git@github.com:luoxiu/CombineX.git
+[submodule "Combine/KeyboardObserving"]
+	path = Combine/KeyboardObserving
+	url = git@github.com:nickffox/KeyboardObserving.git
+[submodule "Combine/Timelane"]
+	path = Combine/Timelane
+	url = git@github.com:icanzilb/Timelane.git
+[submodule "BrowserExtensions/SafariMenuBarExample"]
+	path = BrowserExtensions/SafariMenuBarExample
+	url = git@github.com:horimislime/safari-extension-menubar-example.git
+[submodule "Examples/iOSLogin"]
+	path = Examples/iOSLogin
+	url = git@github.com:ogulcan/iOS-Login-Example.git
+[submodule "TipsTricks/SwiftTips"]
+	path = TipsTricks/SwiftTips
+	url = git@github.com:JohnSundell/SwiftTips.git
+[submodule "Controls/AMTabView"]
+	path = Controls/AMTabView
+	url = git@github.com:Abedalkareem/AMTabView.git
+[submodule "Controls/AnimatedField"]
+	path = Controls/AnimatedField
+	url = git@github.com:alberdev/AnimatedField.git
+[submodule "Controls/BubblePictures"]
+	path = Controls/BubblePictures
+	url = git@github.com:kbelter/BubblePictures.git
+[submodule "Controls/KCustomAlert"]
+	path = Controls/KCustomAlert
+	url = git@github.com:krishnads/KCustomAlert.git
+[submodule "Controls/SMCounterLabel"]
+	path = Controls/SMCounterLabel
+	url = git@github.com:slavenko/SMCounterLabel.git
+[submodule "Controls/Swift/SwiftyMenu"]
+	path = Controls/Swift/SwiftyMenu
+	url = git@github.com:KarimEbrahemAbdelaziz/SwiftyMenu.git
+[submodule "Controls/Swift/TaggerKit"]
+	path = Controls/Swift/TaggerKit
+	url = git@github.com:nekonora/TaggerKit.git
+[submodule "Controls/Swift/TipSee"]
+	path = Controls/Swift/TipSee
+	url = git@github.com:farshadjahanmanesh/TipSee.git
+[submodule "Controls/Swift/loady"]
+	path = Controls/Swift/loady
+	url = git@github.com:farshadjahanmanesh/loady.git
