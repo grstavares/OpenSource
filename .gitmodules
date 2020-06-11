@@ -515,19 +515,19 @@
 	path = TipsTricks/SwiftTips
 	url = git@github.com:JohnSundell/SwiftTips.git
 [submodule "Controls/AMTabView"]
-	path = Controls/AMTabView
+	path = Controls/Swift/AMTabView
 	url = git@github.com:Abedalkareem/AMTabView.git
 [submodule "Controls/AnimatedField"]
-	path = Controls/AnimatedField
+	path = Controls/Swift/AnimatedField
 	url = git@github.com:alberdev/AnimatedField.git
 [submodule "Controls/BubblePictures"]
-	path = Controls/BubblePictures
+	path = Controls/Swift/BubblePictures
 	url = git@github.com:kbelter/BubblePictures.git
 [submodule "Controls/KCustomAlert"]
-	path = Controls/KCustomAlert
+	path = Controls/Swift/KCustomAlert
 	url = git@github.com:krishnads/KCustomAlert.git
 [submodule "Controls/SMCounterLabel"]
-	path = Controls/SMCounterLabel
+	path = Controls/Swift/SMCounterLabel
 	url = git@github.com:slavenko/SMCounterLabel.git
 [submodule "Controls/Swift/SwiftyMenu"]
 	path = Controls/Swift/SwiftyMenu
