@@ -817,3 +817,39 @@
 [submodule "Libraries/Swift/Time"]
 	path = Libraries/Swift/Time
 	url = https://github.com/davedelong/time.git
+[submodule "Extensions/Swift/Aqui"]
+	path = Extensions/Swift/Aqui
+	url = https://github.com/AlanQuatermain/AQUI.git
+[submodule "Extensions/Swift/Codextended"]
+	path = Extensions/Swift/Codextended
+	url = https://github.com/JohnSundell/Codextended
+[submodule "Extensions/Swift/Require"]
+	path = Extensions/Swift/Require
+	url = https://github.com/JohnSundell/Require
+[submodule "Extensions/Swift/Sweep"]
+	path = Extensions/Swift/Sweep
+	url = https://github.com/JohnSundell/Sweep
+[submodule "Extensions/Swift/SwiftKit"]
+	path = Extensions/Swift/SwiftKit
+	url = https://github.com/JohnSundell/SwiftKit
+[submodule "Extensions/Swift/SwifterSwift"]
+	path = Extensions/Swift/SwifterSwift
+	url = https://github.com/calebkleveter/SwifterSwift.git
+[submodule "Extensions/Swift/ZamzamKit"]
+	path = Extensions/Swift/ZamzamKit
+	url = https://github.com/ZamzamInc/ZamzamKit
+[submodule "Extensions/Swift/Momekit"]
+	path = Extensions/Swift/Momekit
+	url = https://github.com/swift-extensions/homekit-extensions
+[submodule "Extensions/Swift/iOSNutsAndBolts"]
+	path = Extensions/Swift/iOSNutsAndBolts
+	url = https://github.com/infinum/iOS-Nuts-And-Bolts
+[submodule "Extensions/Swift/Network"]
+	path = Extensions/Swift/Network
+	url = https://github.com/swift-extensions/network-extensions
+[submodule "Extensions/Swift/Storekit"]
+	path = Extensions/Swift/Storekit
+	url = https://github.com/swift-extensions/storekit-extensions
+[submodule "Extensions/Swift/SwiftUI"]
+	path = Extensions/Swift/SwiftUI
+	url = https://github.com/swift-extensions/swiftui-extensions
