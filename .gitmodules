@@ -406,3 +406,6 @@
 [submodule "Tools/Python/filetype"]
 	path = Tools/Python/filetype
 	url = https://github.com/h2non/filetype.py.git
+[submodule "BrowserExtensions/Copycat"]
+	path = BrowserExtensions/Copycat
+	url = git@github.com:grstavares/Copycat.git
