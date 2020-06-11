@@ -409,3 +409,84 @@
 [submodule "BrowserExtensions/Copycat"]
 	path = BrowserExtensions/Copycat
 	url = git@github.com:grstavares/Copycat.git
+[submodule "Apps/Swift/Ambar-SwiftUI"]
+	path = Apps/Swift/Ambar-SwiftUI
+	url = git@github.com:AnaghSharma/Ambar-SwiftUI.git
+[submodule "Apps/Swift/cedar"]
+	path = Apps/Swift/cedar
+	url = git@github.com:pmick/cedar.git
+[submodule "Apps/Swift/clean-architecture-swiftui"]
+	path = Apps/Swift/clean-architecture-swiftui
+	url = git@github.com:nalexn/clean-architecture-swiftui.git
+[submodule "Apps/Swift/CombineBookSearch"]
+	path = Apps/Swift/CombineBookSearch
+	url = git@github.com:PPacie/CombineBookSearch.git
+[submodule "Apps/Swift/DesignCode-SwiftUI"]
+	path = Apps/Swift/DesignCode-SwiftUI
+	url = git@github.com:mythxn/DesignCode-SwiftUI.git
+[submodule "Apps/Swift/GitHawk"]
+	path = Apps/Swift/GitHawk
+	url = git@github.com:GitHawkApp/GitHawk.git
+[submodule "Apps/Swift/GitHubSearchWithSwiftUI"]
+	path = Apps/Swift/GitHubSearchWithSwiftUI
+	url = git@github.com:marty-suzuki/GitHubSearchWithSwiftUI.git
+[submodule "Apps/Swift/MRTScheduleSwiftUI"]
+	path = Apps/Swift/MRTScheduleSwiftUI
+	url = git@github.com:alfianlosari/MRTScheduleSwiftUI.git
+[submodule "Apps/Swift/macdown"]
+	path = Apps/Swift/macdown
+	url = git@github.com:MacDownApp/macdown.git
+[submodule "Apps/Swift/MovieSwiftUI"]
+	path = Apps/Swift/MovieSwiftUI
+	url = git@github.com:Dimillian/MovieSwiftUI.git
+[submodule "Apps/Swift/NewsApp-With-SwiftUI-And-Combine"]
+	path = Apps/Swift/NewsApp-With-SwiftUI-And-Combine
+	url = git@github.com:AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine.git
+[submodule "Apps/Swift/PapersSwiftUI"]
+	path = Apps/Swift/PapersSwiftUI
+	url = git@github.com:donbytyqi/PapersSwiftUI.git
+[submodule "Apps/Swift/Pine"]
+	path = Apps/Swift/Pine
+	url = git@github.com:lukakerr/Pine.git
+[submodule "Apps/Swift/Podcasts"]
+	path = Apps/Swift/Podcasts
+	url = git@github.com:albertopeam/Podcasts.git
+[submodule "Apps/Swift/ProtoVPN"]
+	path = Apps/Swift/ProtoVPN
+	url = git@github.com:ProtonVPN/mac-app.git
+[submodule "Apps/Swift/Publish"]
+	path = Apps/Swift/Publish
+	url = git@github.com:JohnSundell/Publish.git
+[submodule "Apps/Swift/swiftui-recipes-app"]
+	path = Apps/Swift/swiftui-recipes-app
+	url = git@github.com:mecid/swiftui-recipes-app.git
+[submodule "Apps/Swift/RedditClietLibrary-Illithid"]
+	path = Apps/Swift/RedditClietLibrary-Illithid
+	url = git@github.com:01100010011001010110010101110000/Illithid.git
+[submodule "Apps/Swift/RedditClietLibrary-IllithidUI"]
+	path = Apps/Swift/RedditClietLibrary-IllithidUI
+	url = git@github.com:01100010011001010110010101110000/IllithidUI.git
+[submodule "Apps/Swift/reddit-swiftui"]
+	path = Apps/Swift/reddit-swiftui
+	url = git@github.com:carson-katri/reddit-swiftui.git
+[submodule "Apps/Swift/Splash"]
+	path = Apps/Swift/Splash
+	url = git@github.com:JohnSundell/Splash.git
+[submodule "Apps/Swift/SwiftBySundell"]
+	path = Apps/Swift/SwiftBySundell
+	url = git@github.com:JohnSundell/SwiftBySundell.git
+[submodule "Apps/Swift/SwiftUINote"]
+	path = Apps/Swift/SwiftUINote
+	url = git@github.com:agiletalk/SwiftUINote.git
+[submodule "Apps/Swift/SwiftUITodo"]
+	path = Apps/Swift/SwiftUITodo
+	url = git@github.com:devxoul/SwiftUITodo.git
+[submodule "Apps/Swift/TransitPal"]
+	path = Apps/Swift/TransitPal
+	url = git@github.com:robbiet480/TransitPal.git
+[submodule "Apps/Swift/WWDCPlayer"]
+	path = Apps/Swift/WWDCPlayer
+	url = git@github.com:yoonms/WWDCPlayer.git
+[submodule "Apps/Swift/Weather"]
+	path = Apps/Swift/Weather
+	url = git@github.com:bpisano/Weather.git
