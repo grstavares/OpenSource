@@ -892,3 +892,9 @@
 [submodule "AWS/image-resizer-service"]
 	path = AWS/image-resizer-service
 	url = https://github.com/cagataygurturk/image-resizer-service.git
+[submodule "Libraries/Swift/Fuzi"]
+	path = Libraries/Swift/Fuzi
+	url = https://github.com/cezheng/Fuzi
+[submodule "Tools/XcodeDynamicIconGeneration"]
+	path = Tools/XcodeDynamicIconGeneration
+	url = https://github.com/gmoraleda/Xcode-Dynamic-Icon-Generation.git
