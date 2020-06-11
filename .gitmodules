@@ -700,3 +700,120 @@
 [submodule "Controls/SwiftUI/NumberField"]
 	path = Controls/SwiftUI/NumberField
 	url = https://github.com/edw/swiftui-numberfield.git
+[submodule "Libraries/Swift/Brisk"]
+	path = Libraries/Swift/Brisk
+	url = https://github.com/twostraws/Brisk.git
+[submodule "Libraries/Swift/Cache"]
+	path = Libraries/Swift/Cache
+	url = git@github.com:GottaGetSwifty/Cache.git
+[submodule "Libraries/Swift/CodableFirebase"]
+	path = Libraries/Swift/CodableFirebase
+	url = https://github.com/alickbass/CodableFirebase
+[submodule "Libraries/Swift/CodableWrappers"]
+	path = Libraries/Swift/CodableWrappers
+	url = git@github.com:GottaGetSwifty/CodableWrappers.git
+[submodule "Libraries/Swift/EFIconFont"]
+	path = Libraries/Swift/EFIconFont
+	url = https://github.com/EFPrefix/EFIconFont
+[submodule "Libraries/Swift/EasyNetworking"]
+	path = Libraries/Swift/EasyNetworking
+	url = https://github.com/onmyway133/EasyNetworking.git
+[submodule "Libraries/Swift/EasyStash"]
+	path = Libraries/Swift/EasyStash
+	url = https://github.com/onmyway133/EasyStash.git
+[submodule "Libraries/Swift/Erik"]
+	path = Libraries/Swift/Erik
+	url = https://github.com/phimage/Erik.git
+[submodule "Libraries/Swift/FeedKit"]
+	path = Libraries/Swift/FeedKit
+	url = https://github.com/nmdias/FeedKit.git
+[submodule "Libraries/Swift/Files"]
+	path = Libraries/Swift/Files
+	url = https://github.com/JohnSundell/Files
+[submodule "Libraries/Swift/Ink"]
+	path = Libraries/Swift/Ink
+	url = https://github.com/JohnSundell/Ink
+[submodule "Libraries/Swift/Kanna"]
+	path = Libraries/Swift/Kanna
+	url = https://github.com/tid-kijyun/Kanna.git
+[submodule "Libraries/Swift/KeychainAccess"]
+	path = Libraries/Swift/KeychainAccess
+	url = git@github.com:kishikawakatsumi/KeychainAccess.git
+[submodule "Libraries/Swift/KeychainSwift"]
+	path = Libraries/Swift/KeychainSwift
+	url = https://github.com/evgenyneu/keychain-swift
+[submodule "Libraries/Swift/MMMarkdown"]
+	path = Libraries/Swift/MMMarkdown
+	url = https://github.com/mdiep/MMMarkdown.git
+[submodule "Libraries/Swift/NavajoPasswordStrenghAndValidation"]
+	path = Libraries/Swift/NavajoPasswordStrenghAndValidation
+	url = https://github.com/jasonnam/Navajo-Swift.git
+[submodule "Libraries/Swift/OAuthSwift"]
+	path = Libraries/Swift/OAuthSwift
+	url = https://github.com/OAuthSwift/OAuthSwift.git
+[submodule "Libraries/Swift/OWLforiOS-ObjC"]
+	path = Libraries/Swift/OWLforiOS-ObjC
+	url = https://github.com/sisinflab-swot/OWL-API-for-iOS.git
+[submodule "Libraries/Swift/OctoKit"]
+	path = Libraries/Swift/OctoKit
+	url = git@github.com:nerdishbynature/octokit.swift.git
+[submodule "Libraries/Swift/Path"]
+	path = Libraries/Swift/Path
+	url = https://github.com/cotkjaer/Path.git
+[submodule "Libraries/Swift/Plot"]
+	path = Libraries/Swift/Plot
+	url = https://github.com/JohnSundell/Plot
+[submodule "Libraries/Swift/Reachability"]
+	path = Libraries/Swift/Reachability
+	url = https://github.com/ashleymills/Reachability.swift.git
+[submodule "Libraries/Swift/RoughSwift"]
+	path = Libraries/Swift/RoughSwift
+	url = https://github.com/onmyway133/RoughSwift.git
+[submodule "Libraries/Swift/SVGPath"]
+	path = Libraries/Swift/SVGPath
+	url = https://github.com/timrwood/SVGPath.git
+[submodule "Libraries/Swift/ShellOut"]
+	path = Libraries/Swift/ShellOut
+	url = https://github.com/JohnSundell/ShellOut
+[submodule "Libraries/Swift/SmarkDown"]
+	path = Libraries/Swift/SmarkDown
+	url = https://github.com/SwiftStudies/SmarkDown.git
+[submodule "Libraries/Swift/Snowflake"]
+	path = Libraries/Swift/Snowflake
+	url = https://github.com/onmyway133/Snowflake.git
+[submodule "Libraries/Swift/SwURL"]
+	path = Libraries/Swift/SwURL
+	url = https://github.com/cmtrounce/SwURL.git
+[submodule "Libraries/Swift/Swawsh"]
+	path = Libraries/Swift/Swawsh
+	url = https://github.com/grstavares/Swawsh
+[submodule "Libraries/Swift/SwiftHash"]
+	path = Libraries/Swift/SwiftHash
+	url = https://github.com/onmyway133/SwiftHash.git
+[submodule "Libraries/Swift/SwiftMark"]
+	path = Libraries/Swift/SwiftMark
+	url = https://github.com/calebkleveter/SwiftMark.git
+[submodule "Libraries/Swift/SwiftyImageLoader"]
+	path = Libraries/Swift/SwiftyImageLoader
+	url = git@github.com:GottaGetSwifty/SwiftyImageLoader.git
+[submodule "Libraries/Swift/SwiftyRSS"]
+	path = Libraries/Swift/SwiftyRSS
+	url = git@github.com:GottaGetSwifty/SwiftyRSS.git
+[submodule "Libraries/Swift/SwiftyXMLKit"]
+	path = Libraries/Swift/SwiftyXMLKit
+	url = git@github.com:GottaGetSwifty/SwiftyXMLKit.git
+[submodule "Libraries/Swift/SwiftyXMLParser"]
+	path = Libraries/Swift/SwiftyXMLParser
+	url = https://github.com/yahoojapan/SwiftyXMLParser.git
+[submodule "Libraries/Swift/Untagger"]
+	path = Libraries/Swift/Untagger
+	url = https://github.com/wcgray/Untagger
+[submodule "Libraries/Swift/WeScan"]
+	path = Libraries/Swift/WeScan
+	url = https://github.com/WeTransfer/WeScan.git
+[submodule "Libraries/Swift/SwiftRequest"]
+	path = Libraries/Swift/SwiftRequest
+	url = https://github.com/carson-katri/swift-request
+[submodule "Libraries/Swift/Time"]
+	path = Libraries/Swift/Time
+	url = https://github.com/davedelong/time.git
