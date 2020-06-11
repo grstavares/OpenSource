@@ -541,3 +541,162 @@
 [submodule "Controls/Swift/loady"]
 	path = Controls/Swift/loady
 	url = git@github.com:farshadjahanmanesh/loady.git
+[submodule "Controls/SwiftUI/ActivityIndicator"]
+	path = Controls/SwiftUI/ActivityIndicator
+	url = https://github.com/programmingwithswift/SwiftUI-Activity-Indicator
+[submodule "Controls/SwiftUI/ActivityIndicators"]
+	path = Controls/SwiftUI/ActivityIndicators
+	url = https://github.com/sketch204/ActivityIndicators.git
+[submodule "Controls/SwiftUI/AdvancedList"]
+	path = Controls/SwiftUI/AdvancedList
+	url = https://github.com/crelies/AdvancedList.git
+[submodule "Controls/SwiftUI/AnimationLibrary"]
+	path = Controls/SwiftUI/AnimationLibrary
+	url = https://github.com/amosgyamfi/swiftui-animation-library.git
+[submodule "Controls/SwiftUI/BetterSheet"]
+	path = Controls/SwiftUI/BetterSheet
+	url = https://github.com/egeniq/BetterSheet.git
+[submodule "Controls/SwiftUI/ChartView"]
+	path = Controls/SwiftUI/ChartView
+	url = https://github.com/AppPear/ChartView
+[submodule "Controls/SwiftUI/CodeScanner"]
+	path = Controls/SwiftUI/CodeScanner
+	url = https://github.com/twostraws/CodeScanner.git
+[submodule "Controls/SwiftUI/ConcentricOnboarding"]
+	path = Controls/SwiftUI/ConcentricOnboarding
+	url = http://github.com/exyte/ConcentricOnboarding
+[submodule "Controls/SwiftUI/DrawerView"]
+	path = Controls/SwiftUI/DrawerView
+	url = https://github.com/totoroyyb/DrawerView-SwiftUI.git
+[submodule "Controls/SwiftUI/EasySwiftUI"]
+	path = Controls/SwiftUI/EasySwiftUI
+	url = https://github.com/onmyway133/EasySwiftUI.git
+[submodule "Controls/SwiftUI/FlipClock"]
+	path = Controls/SwiftUI/FlipClock
+	url = https://github.com/elpassion/FlipClock-SwiftUI.git
+[submodule "Controls/SwiftUI/FloatingButton"]
+	path = Controls/SwiftUI/FloatingButton
+	url = https://github.com/exyte/FloatingButton
+[submodule "Controls/SwiftUI/LazyPop"]
+	path = Controls/SwiftUI/LazyPop
+	url = https://github.com/joehinkle11/Lazy-Pop-SwiftUI.git
+[submodule "Controls/SwiftUI/MDText"]
+	path = Controls/SwiftUI/MDText
+	url = https://github.com/Lambdo-Labs/MDText.git
+[submodule "Controls/SwiftUI/MKTabBarItemJumping"]
+	path = Controls/SwiftUI/MKTabBarItemJumping
+	url = https://github.com/Maks-Jago/MKTabBarItemJumping.git
+[submodule "Controls/SwiftUI/MapView"]
+	path = Controls/SwiftUI/MapView
+	url = https://github.com/thomas-sivilay/mapview-swiftui
+[submodule "Controls/SwiftUI/ModalPresentationView"]
+	path = Controls/SwiftUI/ModalPresentationView
+	url = https://github.com/thoughtbot/ModalPresentationView.git
+[submodule "Controls/SwiftUI/NotificationBanner"]
+	path = Controls/SwiftUI/NotificationBanner
+	url = https://github.com/thomas-sivilay/blog-notification-banner-swiftui
+[submodule "Controls/SwiftUI/Pages"]
+	path = Controls/SwiftUI/Pages
+	url = https://github.com/nachonavarro/Pages.git
+[submodule "Controls/SwiftUI/PartialSheet"]
+	path = Controls/SwiftUI/PartialSheet
+	url = https://github.com/AndreaMiotto/PartialSheet.git
+[submodule "Controls/SwiftUI/PartitionKit"]
+	path = Controls/SwiftUI/PartitionKit
+	url = http://github.com/kieranb662/PartitionKit
+[submodule "Controls/SwiftUI/PlayIndicator"]
+	path = Controls/SwiftUI/PlayIndicator
+	url = git@github.com:docterd/PlayIndicator.git
+[submodule "Controls/SwiftUI/QuickActionCard"]
+	path = Controls/SwiftUI/QuickActionCard
+	url = https://github.com/Leon12345679/QuickActionCard.git
+[submodule "Controls/SwiftUI/RefreshUI"]
+	path = Controls/SwiftUI/RefreshUI
+	url = https://github.com/noppefoxwolf/RefreshUI.git
+[submodule "Controls/SwiftUI/SideMenuHamburger"]
+	path = Controls/SwiftUI/SideMenuHamburger
+	url = https://github.com/BLCKBIRDS/Side-Menu--Hamburger-Menu--in-SwiftUI.git
+[submodule "Controls/SwiftUI/SkeletonUI"]
+	path = Controls/SwiftUI/SkeletonUI
+	url = http://github.com/CSolanaM/SkeletonUI
+[submodule "Controls/SwiftUI/SlidingTabView"]
+	path = Controls/SwiftUI/SlidingTabView
+	url = https://github.com/QuynhNguyen/SlidingTabView.git
+[submodule "Controls/SwiftUI/SpotlightSearch"]
+	path = Controls/SwiftUI/SpotlightSearch
+	url = https://github.com/boraseoksoon/SpotlightSearch.git
+[submodule "Controls/SwiftUI/SwiftDrawer"]
+	path = Controls/SwiftUI/SwiftDrawer
+	url = https://github.com/MillmanY/SwiftDrawer.git
+[submodule "Controls/SwiftUI/SwiftSunburstDiagram"]
+	path = Controls/SwiftUI/SwiftSunburstDiagram
+	url = https://github.com/lludo/SwiftSunburstDiagram
+[submodule "Controls/SwiftUI/ListFetching"]
+	path = Controls/SwiftUI/ListFetching
+	url = https://github.com/schmidyy/SwiftUI-ListFetching.git
+[submodule "Controls/SwiftUI/Networking"]
+	path = Controls/SwiftUI/Networking
+	url = https://github.com/gtokman/SwiftUI-Networking.git
+[submodule "Controls/SwiftUI/PathAnimations"]
+	path = Controls/SwiftUI/PathAnimations
+	url = https://github.com/adellibovi/SwiftUI-PathAnimations.git
+[submodule "Controls/SwiftUI/SwiftUIBlurView"]
+	path = Controls/SwiftUI/SwiftUIBlurView
+	url = http://github.com/danielsaidi/SwiftUIBlurView
+[submodule "Controls/SwiftUI/SwiftUICompactKit"]
+	path = Controls/SwiftUI/SwiftUICompactKit
+	url = https://github.com/AmirKamali/SwiftUICompactKit
+[submodule "Controls/SwiftUI/SwiftUIDragDrop"]
+	path = Controls/SwiftUI/SwiftUIDragDrop
+	url = https://github.com/brunogb/SwiftUIDragDrop.git
+[submodule "Controls/SwiftUI/SwiftUIImageEffects"]
+	path = Controls/SwiftUI/SwiftUIImageEffects
+	url = https://github.com/globchastyy/SwiftUIImageEffects
+[submodule "Controls/SwiftUI/SwiftUIMac"]
+	path = Controls/SwiftUI/SwiftUIMac
+	url = https://github.com/trozware/swiftui-mac
+[submodule "Controls/SwiftUI/SwiftUIModal"]
+	path = Controls/SwiftUI/SwiftUIModal
+	url = https://github.com/cyrilzakka/SwiftUIModal
+[submodule "Controls/SwiftUI/SwiftUIPagingScrollView"]
+	path = Controls/SwiftUI/SwiftUIPagingScrollView
+	url = https://github.com/izakpavel/SwiftUIPagingScrollView.git
+[submodule "Controls/SwiftUI/SwiftUITimeTravel"]
+	path = Controls/SwiftUI/SwiftUITimeTravel
+	url = https://github.com/timdonnelly/SwiftUITimeTravel
+[submodule "Controls/SwiftUI/SwiftUIWebSocketLiveUI"]
+	path = Controls/SwiftUI/SwiftUIWebSocketLiveUI
+	url = https://github.com/alfianlosari/SwiftUIWebSocketLiveUI.git
+[submodule "Controls/SwiftUI/SwiftUIX"]
+	path = Controls/SwiftUI/SwiftUIX
+	url = https://github.com/SwiftUIX/SwiftUIX
+[submodule "Controls/SwiftUI/SwiftUI_IG"]
+	path = Controls/SwiftUI/SwiftUI_IG
+	url = https://github.com/kananats/SwiftUI_IG.git
+[submodule "Controls/SwiftUI/TextView"]
+	path = Controls/SwiftUI/TextView
+	url = https://github.com/kenmueller/TextView.git
+[submodule "Controls/SwiftUI/TypeYouCard"]
+	path = Controls/SwiftUI/TypeYouCard
+	url = https://github.com/alexejn/TypeYouCard
+[submodule "Controls/SwiftUI/UI3"]
+	path = Controls/SwiftUI/UI3
+	url = https://github.com/hexagons/UI3.git
+[submodule "Controls/SwiftUI/VideoPlayer"]
+	path = Controls/SwiftUI/VideoPlayer
+	url = https://github.com/wxxsw/VideoPlayer.git
+[submodule "Controls/SwiftUI/WaterfallGrid"]
+	path = Controls/SwiftUI/WaterfallGrid
+	url = http://github.com/paololeonardi/WaterfallGrid
+[submodule "Controls/SwiftUI/BottomBar"]
+	path = Controls/SwiftUI/BottomBar
+	url = https://github.com/smartvipere75/bottombar-swiftui.git
+[submodule "Controls/SwiftUI/Gmenu"]
+	path = Controls/SwiftUI/Gmenu
+	url = https://github.com/amirdew/gmenu.git
+[submodule "Controls/SwiftUI/Morphi"]
+	path = Controls/SwiftUI/Morphi
+	url = https://github.com/phimage/morphi.git
+[submodule "Controls/SwiftUI/NumberField"]
+	path = Controls/SwiftUI/NumberField
+	url = https://github.com/edw/swiftui-numberfield.git
