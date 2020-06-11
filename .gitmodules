@@ -943,3 +943,6 @@
 [submodule "AWS/aCloudGuruAdvancedCloudFormation"]
 	path = AWS/aCloudGuruAdvancedCloudFormation
 	url = https://github.com/ACloudGuru/AdvancedCloudFormation
+[submodule "Tools/Python/DadosAbertosTSE"]
+	path = Tools/Python/DadosAbertosTSE
+	url = git@github.com:grstavares/DadosAbertosTSE.git
