@@ -853,3 +853,6 @@
 [submodule "Extensions/Swift/SwiftUI"]
 	path = Extensions/Swift/SwiftUI
 	url = https://github.com/swift-extensions/swiftui-extensions
+[submodule "Libraries/Android/andOTP"]
+	path = Libraries/Android/andOTP
+	url = https://github.com/andOTP/andOTP.git
