@@ -898,3 +898,48 @@
 [submodule "Tools/XcodeDynamicIconGeneration"]
 	path = Tools/XcodeDynamicIconGeneration
 	url = https://github.com/gmoraleda/Xcode-Dynamic-Icon-Generation.git
+[submodule "AWS/CFValidationPipeline"]
+	path = AWS/CFValidationPipeline
+	url = https://github.com/awslabs/cloudformation-validation-pipeline.git
+[submodule "AWS/CentralizeLogs"]
+	path = AWS/CentralizeLogs
+	url = https://github.com/awslabs/cloudwatch-logs-centralize-logs.git
+[submodule "AWS/CodeBuildSamples"]
+	path = AWS/CodeBuildSamples
+	url = https://github.com/aws-samples/aws-codebuild-samples.git
+[submodule "AWS/CodePipelineNestedCFN"]
+	path = AWS/CodePipelineNestedCFN
+	url = https://github.com/aws-samples/codepipeline-nested-cfn.git
+[submodule "AWS/DataLakeSolution"]
+	path = AWS/DataLakeSolution
+	url = https://github.com/awslabs/aws-data-lake-solution.git
+[submodule "AWS/DevOpsEssential"]
+	path = AWS/DevOpsEssential
+	url = https://github.com/awslabs/aws-devops-essential.git
+[submodule "AWS/LambdaFowarderForSES"]
+	path = AWS/LambdaFowarderForSES
+	url = https://github.com/nmcclain/aws-lambda-forwarder-for-ses.git
+[submodule "AWS/LogsConcentrator"]
+	path = AWS/LogsConcentrator
+	url = https://github.com/awslabs/aws-centralized-logging.git
+[submodule "AWS/S3Bundler"]
+	path = AWS/S3Bundler
+	url = https://github.com/awslabs/s3bundler.git
+[submodule "AWS/SESSimpleMailFoward"]
+	path = AWS/SESSimpleMailFoward
+	url = https://github.com/sirceljm/AWS-SES-simple-mail-forward.git
+[submodule "AWS/ServerlessAppAuthReference"]
+	path = AWS/ServerlessAppAuthReference
+	url = https://github.com/awslabs/aws-serverless-auth-reference-app.git
+[submodule "AWS/ServerlessAutomatedTesting"]
+	path = AWS/ServerlessAutomatedTesting
+	url = https://github.com/awslabs/serverless-automated-ui-testing.git
+[submodule "AWS/ServerlessBlog"]
+	path = AWS/ServerlessBlog
+	url = https://github.com/sirceljm/aws-lambda-blog.git
+[submodule "AWS/StartupKit"]
+	path = AWS/StartupKit
+	url = https://github.com/aws-samples/startup-kit-templates.git
+[submodule "AWS/aCloudGuruAdvancedCloudFormation"]
+	path = AWS/aCloudGuruAdvancedCloudFormation
+	url = https://github.com/ACloudGuru/AdvancedCloudFormation
