@@ -946,3 +946,48 @@
 [submodule "Tools/Python/DadosAbertosTSE"]
 	path = Tools/Python/DadosAbertosTSE
 	url = git@github.com:grstavares/DadosAbertosTSE.git
+[submodule "Apps/Swift/ECommerceTemplate"]
+	path = Apps/Swift/ECommerceTemplate
+	url = git@github.com:jboullianne/TC-ECommerceTemplate.git
+[submodule "Controls/SwiftUI/SegmentedPicker"]
+	path = Controls/SwiftUI/SegmentedPicker
+	url = git@github.com:kieranb662/SegmentedPicker.git
+[submodule "Controls/SwiftUI/PickMe"]
+	path = Controls/SwiftUI/PickMe
+	url = git@github.com:kieranb662/PickMe.git
+[submodule "Controls/SwiftUI/Sliders-SwiftUI"]
+	path = Controls/SwiftUI/Sliders-SwiftUI
+	url = git@github.com:kieranb662/Sliders-SwiftUI.git
+[submodule "Libraries/Swift/PartitionKit"]
+	path = Libraries/Swift/PartitionKit
+	url = git@github.com:kieranb662/PartitionKit.git
+[submodule "Libraries/Swift/SwiftUI-bez"]
+	path = Libraries/Swift/SwiftUI-bez
+	url = git@github.com:kieranb662/SwiftUI-bez.git
+[submodule "Libraries/Swift/SwiftUI-Shapes"]
+	path = Libraries/Swift/SwiftUI-Shapes
+	url = git@github.com:kieranb662/SwiftUI-Shapes.git
+[submodule "Libraries/Swift/CGExtender"]
+	path = Libraries/Swift/CGExtender
+	url = git@github.com:kieranb662/CGExtender.git
+[submodule "Examples/SwiftCollisionDetection"]
+	path = Examples/SwiftCollisionDetection
+	url = git@github.com:kieranb662/CollisionDetectionExamples.git
+[submodule "Controls/SwiftUI/FieldValidator"]
+	path = Controls/SwiftUI/FieldValidator
+	url = git@github.com:bsorrentino/swiftui-fieldvalidator.git
+[submodule "Controls/SwiftUI/RGStack"]
+	path = Controls/SwiftUI/RGStack
+	url = git@github.com:terminatorover/RGStack.git
+[submodule "Controls/SwiftUI/CustomModifier"]
+	path = Controls/SwiftUI/CustomModifier
+	url = git@github.com:daisukenagata/SwiftUI_CustomModifier.git
+[submodule "Controls/SwiftUI/FloatingLabelTextFieldSwiftUI"]
+	path = Controls/SwiftUI/FloatingLabelTextFieldSwiftUI
+	url = git@github.com:kishanraja/FloatingLabelTextFieldSwiftUI.git
+[submodule "Controls/SwiftUI/SwiftUI-CardStackView"]
+	path = Controls/SwiftUI/SwiftUI-CardStackView
+	url = git@github.com:dadalar/SwiftUI-CardStackView.git
+[submodule "Controls/SwiftUI/CDCircularMenu"]
+	path = Controls/SwiftUI/CDCircularMenu
+	url = git@github.com:christophedellac/CDCircularMenu.git
