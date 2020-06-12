@@ -991,3 +991,9 @@
 [submodule "Controls/SwiftUI/CDCircularMenu"]
 	path = Controls/SwiftUI/CDCircularMenu
 	url = git@github.com:christophedellac/CDCircularMenu.git
+[submodule "Controls/SwiftUI/Grid"]
+	path = Controls/SwiftUI/Grid
+	url = git@github.com:exyte/Grid.git
+[submodule "Libraries/Swift/Fluxor"]
+	path = Libraries/Swift/Fluxor
+	url = git@github.com:FluxorOrg/Fluxor.git
