@@ -997,3 +997,18 @@
 [submodule "Libraries/Swift/Fluxor"]
 	path = Libraries/Swift/Fluxor
 	url = git@github.com:FluxorOrg/Fluxor.git
+[submodule "Controls/Swift/Percentage"]
+	path = Controls/Swift/Percentage
+	url = git@github.com:sindresorhus/Percentage.git
+[submodule "Libraries/Swift/LaunchAtLogin"]
+	path = Libraries/Swift/LaunchAtLogin
+	url = git@github.com:sindresorhus/LaunchAtLogin.git
+[submodule "Libraries/Swift/Defaults"]
+	path = Libraries/Swift/Defaults
+	url = git@github.com:sindresorhus/Defaults.git
+[submodule "Controls/SwiftUI/OutlineView"]
+	path = Controls/SwiftUI/OutlineView
+	url = git@github.com:toph-allen/OutlineView.git
+[submodule "Apps/Swift/VibeChecker"]
+	path = Apps/Swift/VibeChecker
+	url = git@github.com:toph-allen/VibeChecker.git
