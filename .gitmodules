@@ -1036,3 +1036,6 @@
 [submodule "LearningSpace/Swift/SwiftUI-Tutorial-Drawing"]
 	path = LearningSpace/Swift/SwiftUI-Tutorial-Drawing
 	url = git@github.com:tomasznazarenko/SwiftUI-Tutorial-Drawing.git
+[submodule "Tools/SVG-to-SwiftUI"]
+	path = Tools/SVG-to-SwiftUI
+	url = git@github.com:quassummanus/SVG-to-SwiftUI.git
