@@ -1012,3 +1012,27 @@
 [submodule "Apps/Swift/VibeChecker"]
 	path = Apps/Swift/VibeChecker
 	url = git@github.com:toph-allen/VibeChecker.git
+[submodule "LearningSpace/Swift/PathsAndAnimation"]
+	path = LearningSpace/Swift/PathsAndAnimation
+	url = git@github.com:SchwiftyUI/PathsAndAnimation.git
+[submodule "Controls/Android/SmileyRating"]
+	path = Controls/Android/SmileyRating
+	url = git@github.com:sujithkanna/SmileyRating.git
+[submodule "Controls/SwiftUI/Shapes"]
+	path = Controls/SwiftUI/Shapes
+	url = git@github.com:spacenation/swiftui-shapes.git
+[submodule "Controls/SwiftUI/morphi"]
+	path = Controls/SwiftUI/morphi
+	url = git@github.com:phimage/morphi.git
+[submodule "Controls/SwiftUI/SwiftUI-Shapes"]
+	path = Controls/SwiftUI/SwiftUI-Shapes
+	url = git@github.com:kieranb662/SwiftUI-Shapes.git
+[submodule "Controls/SwiftUI/StarView"]
+	path = Controls/SwiftUI/StarView
+	url = git@github.com:EnesKaraosman/StarView.git
+[submodule "Controls/SwiftUI/Drawing"]
+	path = Controls/SwiftUI/Drawing
+	url = git@github.com:adzguy/Drawing.git
+[submodule "LearningSpace/Swift/SwiftUI-Tutorial-Drawing"]
+	path = LearningSpace/Swift/SwiftUI-Tutorial-Drawing
+	url = git@github.com:tomasznazarenko/SwiftUI-Tutorial-Drawing.git
