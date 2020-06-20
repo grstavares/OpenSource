@@ -1039,3 +1039,108 @@
 [submodule "Tools/SVG-to-SwiftUI"]
 	path = Tools/SVG-to-SwiftUI
 	url = git@github.com:quassummanus/SVG-to-SwiftUI.git
+[submodule "LearningSpace/Swift/Evape"]
+	path = LearningSpace/Swift/Evape
+	url = git@github.com:canbalkya/Evape.git
+[submodule "LearningSpace/Swift/AnimationLibrary"]
+	path = LearningSpace/Swift/AnimationLibrary
+	url = git@github.com:amosgyamfi/swiftui-animation-library.git
+[submodule "LearningSpace/Swift/BankCards"]
+	path = LearningSpace/Swift/BankCards
+	url = git@github.com:fermoya/BankCards.git
+[submodule "LearningSpace/Swift/AnimationCurves"]
+	path = LearningSpace/Swift/AnimationCurves
+	url = git@github.com:objcio/S01E174-animation-curves.git
+[submodule "LearningSpace/Swift/SimpleAnimations"]
+	path = LearningSpace/Swift/SimpleAnimations
+	url = git@github.com:SudSharma/SwiftUI-SimpleAnimations.git
+[submodule "Controls/SwiftUI/LoaderUI"]
+	path = Controls/SwiftUI/LoaderUI
+	url = git@github.com:ninjaprox/LoaderUI.git
+[submodule "LearningSpace/Swift/WatchOSBreathingAnimation"]
+	path = LearningSpace/Swift/WatchOSBreathingAnimation
+	url = git@github.com:Pondorasti/WatchOSBreathingAnimation.git
+[submodule "LearningSpace/Swift/ActivityAnimations"]
+	path = LearningSpace/Swift/ActivityAnimations
+	url = git@github.com:karthironald/ActivityAnimations.git
+[submodule "Controls/SwiftUI/RainbowBar"]
+	path = Controls/SwiftUI/RainbowBar
+	url = git@github.com:DistilleryTech/RainbowBar.git
+[submodule "Controls/SwiftUI/Foldable-And-Expandable-List"]
+	path = Controls/SwiftUI/Foldable-And-Expandable-List
+	url = git@github.com:ThasianX/Foldable-And-Expandable-List-SwiftUI.git
+[submodule "LearningSpace/Swift/BarChartAnimations"]
+	path = LearningSpace/Swift/BarChartAnimations
+	url = git@github.com:TechSolomon/BarChartAnimations.git
+[submodule "LearningSpace/Swift/HomeViewSwiftUI"]
+	path = LearningSpace/Swift/HomeViewSwiftUI
+	url = git@github.com:JakubSlawecki/HomeViewSwiftUI.git
+[submodule "Controls/SwiftUI/AnimatedCards"]
+	path = Controls/SwiftUI/AnimatedCards
+	url = git@github.com:tularovbeslan/AnimatedCards.git
+[submodule "Apps/Swift/TimePrints"]
+	path = Apps/Swift/TimePrints
+	url = git@github.com:ThasianX/TimePrints.git
+[submodule "LearningSpace/Swift/SwiftUI-Transforms-Animations"]
+	path = LearningSpace/Swift/SwiftUI-Transforms-Animations
+	url = git@github.com:nsscreencast/399-swiftui-transforms-and-animations.git
+[submodule "LearningSpace/Swift/SwiftUIAnimationsMastery"]
+	path = LearningSpace/Swift/SwiftUIAnimationsMastery
+	url = git@github.com:CypherPoet/book--swiftui-animations-mastery.git
+[submodule "Controls/SwiftUI/MenuView"]
+	path = Controls/SwiftUI/MenuView
+	url = git@github.com:JakubSlawecki/SwiftUIMenuView.git
+[submodule "LearningSpace/Swift/SwiftUI-Playgrounds"]
+	path = LearningSpace/Swift/SwiftUI-Playgrounds
+	url = git@github.com:waynedahlberg/swiftui-playgrounds.git
+[submodule "LearningSpace/Swift/SwiftUIAnimations-Joshua"]
+	path = LearningSpace/Swift/SwiftUIAnimations-Joshua
+	url = git@github.com:joshuajhomann/SwiftUI-Animations.git
+[submodule "LearningSpace/Swift/ConfettiAnimation"]
+	path = LearningSpace/Swift/ConfettiAnimation
+	url = git@github.com:AJPicard913/Confetti-Animation.git
+[submodule "LearningSpace/Swift/ShoppingCartAnimation"]
+	path = LearningSpace/Swift/ShoppingCartAnimation
+	url = git@github.com:objcio/S01E175-building-a-shopping-cart-animation.git
+[submodule "Controls/SwiftUI/Countdown"]
+	path = Controls/SwiftUI/Countdown
+	url = git@github.com:DevLiuSir/Countdown.git
+[submodule "Controls/SwiftUI/Profilio"]
+	path = Controls/SwiftUI/Profilio
+	url = git@github.com:VahidGR/Profilio-Sample.git
+[submodule "Controls/SwiftUI/AnimatedImage"]
+	path = Controls/SwiftUI/AnimatedImage
+	url = git@github.com:jobedylbas/AnimatedImage.git
+[submodule "Controls/SwiftUI/AnimationCards"]
+	path = Controls/SwiftUI/AnimationCards
+	url = git@github.com:weslleyquadros/animationCards.git
+[submodule "LearningSpace/Swift/SvgToBezierAnimation"]
+	path = LearningSpace/Swift/SvgToBezierAnimation
+	url = git@github.com:SiraniaDev/SvgToBezierAnimationApp.git
+[submodule "LearningSpace/Swift/AnimatedText"]
+	path = LearningSpace/Swift/AnimatedText
+	url = git@github.com:keiren-z/animatedText.git
+[submodule "LearningSpace/Swift/LockAnimation"]
+	path = LearningSpace/Swift/LockAnimation
+	url = git@github.com:aiQG/LockAnimation-SwiftUI.git
+[submodule "LearningSpace/Swift/WaveAnimationWatchOS"]
+	path = LearningSpace/Swift/WaveAnimationWatchOS
+	url = git@github.com:VinRau/Wave-Animation.git
+[submodule "Controls/SwiftUI/DropDownModifier"]
+	path = Controls/SwiftUI/DropDownModifier
+	url = git@github.com:fbandemer/DropDownModifier.git
+[submodule "Controls/SwiftUI/FlipCard"]
+	path = Controls/SwiftUI/FlipCard
+	url = git@github.com:leonardobilia/FlipCard.git
+[submodule "LearningSpace/Swift/LongPressGesture"]
+	path = LearningSpace/Swift/LongPressGesture
+	url = git@github.com:jaredalan/LongPressGesture-SwiftUI.git
+[submodule "Controls/SwiftUI/SwiftUICards"]
+	path = Controls/SwiftUI/SwiftUICards
+	url = git@github.com:darknoon/SwiftUICards.git
+[submodule "Controls/SwiftUI/Onboarding"]
+	path = Controls/SwiftUI/Onboarding
+	url = git@github.com:AJPicard913/Onboarding-SwiftUI.git
+[submodule "Controls/SwiftUI/Lottie"]
+	path = Controls/SwiftUI/Lottie
+	url = git@github.com:cathalfarrell/lottie-swiftui.git
