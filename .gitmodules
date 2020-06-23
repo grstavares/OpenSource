@@ -1144,3 +1144,19 @@
 [submodule "Controls/SwiftUI/Lottie"]
 	path = Controls/SwiftUI/Lottie
 	url = git@github.com:cathalfarrell/lottie-swiftui.git
+[submodule "Controls/Swift/CreditCard"]
+	path = Controls/Swift/CreditCard
+	url = https://github.com/orazz/CreditCardForm-iOS.git
+	branch = master
+[submodule "Controls/Swift/HorizonCalendar"]
+	path = Controls/Swift/HorizonCalendar
+	url = git@github.com:airbnb/HorizonCalendar.git
+	branch = master
+[submodule "LearningSpace/Swift/RealityUI"]
+	path = LearningSpace/Swift/RealityUI
+	url = git@github.com:maxxfrazer/RealityUI.git
+	branch = master
+[submodule "LearningSpace/Swift/technical-articles"]
+	path = LearningSpace/Swift/technical-articles
+	url = https://github.com/raulriera/technical-articles.git
+	branch = master
