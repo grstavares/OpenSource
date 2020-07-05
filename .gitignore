@@ -212,3 +212,4 @@ downloaded/
 extracted/
 *.sqlite
 *.db
+SharedXcodeSettings/DeveloperSettings.xcconfig

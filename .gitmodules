@@ -1160,3 +1160,11 @@
 	path = LearningSpace/Swift/technical-articles
 	url = https://github.com/raulriera/technical-articles.git
 	branch = master
+[submodule "Controls/SwiftUI/CDSideMenu"]
+	path = Controls/SwiftUI/CDSideMenu
+	url = git@github.com:christophedellac/CDSideMenu.git
+	branch = master
+[submodule "Apps/Swift/SwiftOCR"]
+	path = Apps/Swift/SwiftOCR
+	url = git@github.com:garnele007/SwiftOCR.git
+	branch = master
