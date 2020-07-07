@@ -1168,3 +1168,11 @@
 	path = Apps/Swift/SwiftOCR
 	url = git@github.com:garnele007/SwiftOCR.git
 	branch = master
+[submodule "Apps/Swift/NetNewsWire"]
+	path = Apps/Swift/NetNewsWire
+	url = git@github.com:Ranchero-Software/NetNewsWire.git
+	branch = master
+[submodule "Extensions/Swift/HandySwift"]
+	path = Extensions/Swift/HandySwift
+	url = git@github.com:Flinesoft/HandySwift.git
+	branch = main
